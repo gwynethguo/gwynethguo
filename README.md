@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Gwyneth :)
-*Currently studying Computer Science at National University of Singapore :D*\
+*Currently studying Computer Science at National University of Singapore :D*
 
 ![](https://komarev.com/ghpvc/?username=gwynethguo)
 
