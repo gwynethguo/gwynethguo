@@ -1,7 +1,6 @@
 # Hello, I'm Gwyneth!
 ![](https://komarev.com/ghpvc/?username=gwynethguo)
 - I'm currently studying *Computer Science* at National University of Singapore
-- I'm currently working on [tP - team project](https://github.com/AY2223S2-CS2103-W17-1/tp)
 - わたしはクロミがすきです！❣
 
 ## Things I code with
