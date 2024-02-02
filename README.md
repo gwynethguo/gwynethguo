@@ -1,7 +1,6 @@
 # Hello, I'm Gwyneth!
 ![](https://komarev.com/ghpvc/?username=gwynethguo)
 - I'm currently studying *Computer Science* at National University of Singapore
-- わたしはクロミがすきです！❣
 
 ## Things I code with
 
