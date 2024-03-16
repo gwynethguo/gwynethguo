@@ -1,7 +1,7 @@
 # Hello, I'm Gwyneth!
-![](https://komarev.com/ghpvc/?username=gwynethguo)
-- I'm currently studying *Computer Science* at National University of Singapore
+- 📕 I'm currently studying *Computer Science* at National University of Singapore.
 
+<!---
 ## Things I code with
 
 <p align="left">
@@ -19,6 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" alt="codecov" width="50" height="50"/>
 </p>
+-->
 
 <br>
 
