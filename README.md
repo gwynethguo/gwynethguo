@@ -1,5 +1,5 @@
 # Hello, I'm Gwyneth!
-- 📕 I'm currently studying *Computer Science* at National University of Singapore.
+📕 I'm currently studying *Computer Science* at National University of Singapore.
 
 <!---
 ## Things I code with
@@ -21,7 +21,6 @@
 </p>
 -->
 
-<br>
 <p>
 <picture>
 <source 
