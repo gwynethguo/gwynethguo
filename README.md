@@ -22,18 +22,31 @@
 -->
 
 <br>
-
+<p>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=gwynethguo&count_private=true&show_icons=true&theme=radical"
+  srcset="https://github-readme-stats.vercel.app/api?username=gwynethguo&count_private=true&show_icons=true&theme=date_night"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=gwynethguo&count_private=true&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=gwynethguo&count_private=true&show_icons=true&theme=rose"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=gwynethguo&count_private=true&show_icons=true" />
 </picture>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gwynethguo&count_private=true&show_icons=true&theme=date_night&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gwynethguo&count_private=true&show_icons=true&theme=rose&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynethguo" />
+</picture>
+</p>
+
 
 <hr>
 <p align="center">
