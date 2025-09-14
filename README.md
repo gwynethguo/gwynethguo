@@ -1,5 +1,5 @@
 # Hello, I'm Gwyneth!
-📕 I'm currently studying *Computer Science* at National University of Singapore.
+📕 I'm a *Computer Science* graduate from National University of Singapore.
 
 <!---
 ## Things I code with
